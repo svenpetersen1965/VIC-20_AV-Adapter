@@ -7,6 +7,8 @@ An Adapter for connecting the Commodore VIC-20 to video equipment with off the s
 
 <img src="https://github.com/svenpetersen1965/VIC-20_AV-Adapter/blob/main/Rev.%200/pictures/9025_-_PCB_%26_case.JPG" width="300" alt="A/V-adapter">
 
+<img src="https://github.com/svenpetersen1965/VIC-20_AV-Adapter/blob/main/Rev.%200/pictures/8997_-_Test_SN1960_TwoProng.JPG" width="300" alt="A/V-adapter">
+
 A 3D printed case and a case label are provided in this repository.
 
 The A/V-adapter was tested with
