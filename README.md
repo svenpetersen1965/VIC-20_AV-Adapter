@@ -1,4 +1,4 @@
-# VIC-20_AV-Adapter
+# VIC-20 A/V-Adapter
 An Adapter for connecting the Commodore VIC-20 to video equipment with off the shelve A/V-cables.
 
 <img src="https://github.com/svenpetersen1965/VIC-20_AV-Adapter/blob/main/Rev.%200/pictures/9023_-_in_case_front.JPG" width="300" alt="A/V-adapter">
