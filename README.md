@@ -18,3 +18,5 @@ The A/V-adapter was tested with
 * the Atari 800XL
 
 It is not suitable for the Commodore C128
+# BOM Value
+The BOM value of Rev. 0, without the 3D printed case and label is 8.69€ (03.08.2021, values obtained from Reichelt.de). The Lumberg connectors are more expensive from other suppliers.
