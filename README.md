@@ -20,3 +20,6 @@ The A/V-adapter was tested with
 It is not suitable for the Commodore C128
 # BOM Value
 The BOM value of Rev. 1, without the 3D printed case and label is 9.50€ (01.11.2021, values obtained from Reichelt.de). The Lumberg connectors are more expensive from other suppliers.
+
+# Rev. 2
+The Lumberg BTOR1 RCA jacks were obsolete and replaced with CUI Inc. RCJ-02*. This also requires a different bottom shell of the 3D-printed case. There are Keystome RCA jacks, that fit the same footprint (they are more expensive). See the BOM Rev. 2
